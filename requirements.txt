@@ -1,4 +1,4 @@
-jinja2==2.10
+jinja2==2.11.3
 jsonschema
 netaddr
 openpyxl==2.5.4
